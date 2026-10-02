@@ -20,7 +20,7 @@
 - ☁️ I automate cloud infrastructure with **AWS, Terraform, Docker and GitHub Actions**
 - 🏅 **AWS Certified Solutions Architect – Associate** and **AWS Certified Cloud Practitioner**
 - 🔭 Currently building **[GapInfly](https://gapinfly.in)**, a live AI career platform
-- 🎯 Looking for **Full Stack / Software Engineering internships**
+- 🎯 Looking for **Cloud Engineering / Software Engineering internships**
 - 📫 Reach me at **sarthakchaurasia44@gmail.com**
 
 ---
